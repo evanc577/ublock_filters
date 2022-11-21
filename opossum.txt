@@ -1,0 +1,2 @@
+! Force fullscreen YouTube videos to align to top of screen
+youtube.com##video.video-stream:style(top: unset !important;)
